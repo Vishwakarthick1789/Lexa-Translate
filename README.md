@@ -69,7 +69,7 @@ Now, we need to run the UI client.
 
 ---
 
-## 🧠 Using the App (What to Expect)
+## 🧠 Using the App
 
 1. Type an English sentence in the left dialogue box.
 2. Select your target language. By default:
